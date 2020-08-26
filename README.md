@@ -4,7 +4,7 @@ Treebuster - recursive Gobuster
 This is pretty much a fancy wrapper for Gobuster or any other *buster program which is compatible to Gobuster. 
 It scans a target and if it finds a directory listing it will read it out or start a new Gobuster process on the found directory. 
 
-![screenshot](https://github.com/pyrat3/Treebuster/blob/master/screenshot.png)
+
 
 # Dependencies
 anytree - only for neat output
